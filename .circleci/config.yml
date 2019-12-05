@@ -7,3 +7,4 @@ jobs:
   build:
     executor: ci-executor
     steps:
+      -checkout
